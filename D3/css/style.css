@@ -1,0 +1,11 @@
+//Styling the header
+body{
+  background-color: #778899 !important;
+  color: white;
+  height: 100px;
+}
+//styling the h1 tag
+h1
+{
+  color: orange;
+}
